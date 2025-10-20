@@ -11,6 +11,6 @@ import lombok.Setter;
 @Setter
 public class Operation {
     private OperationType operation;
-    private int unitCost;
+    private double unitCost;
     private int quantity;
 }

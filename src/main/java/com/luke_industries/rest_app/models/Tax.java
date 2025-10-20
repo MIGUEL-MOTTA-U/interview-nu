@@ -10,5 +10,5 @@ import lombok.Setter;
 @Getter
 @Setter
 public class Tax {
-    private int tax;
+    private Double tax;
 }
